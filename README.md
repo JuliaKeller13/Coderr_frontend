@@ -193,8 +193,6 @@ Coderr_frontend/
   width="90"
 />
 
-<h3>Julia Keller</h3>
-
 <p>
   <a href="https://github.com/JuliaKeller13">GitHub</a>
   &nbsp;•&nbsp;
